@@ -11,7 +11,7 @@
     }
 
     /* Red color for even-position radio buttons */
-    .input {
+    .input:nth-child(even) {
       accent-color: red;
-		color:red;
+      color: red;
     }
