@@ -1,1 +1,17 @@
 /*  your css code here. If applicable */
+    body {
+      font-family: Arial, sans-serif;
+      padding: 20px;
+    }
+
+    label {
+      display: block;
+      margin-bottom: 8px;
+      font-size: 18px;
+    }
+
+    /* Red color for even-position radio buttons */
+    .input {
+      accent-color: red;
+		color:red;
+    }
