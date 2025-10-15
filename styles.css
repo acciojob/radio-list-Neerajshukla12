@@ -1,5 +1,15 @@
+    body {
+      font-family: Arial, sans-serif;
+      padding: 20px;
+    }
 
-    .input:nth-child(even) {
+    label {
+      display: block;
+      margin-bottom: 8px;
+      font-size: 18px;
+    }
+
+    .input {
       accent-color: red;
       color: red;
     }
